@@ -11,10 +11,10 @@ Save the below format, after changes as .env in the same folder as this file.
 
 Format:
 
-MODEL="meta-llama-3.1-8b-instruct"\n
+MODEL="meta-llama-3.1-8b-instruct"
 
-BASE_URL="http://127.0.0.1:1234/v1"\n
+BASE_URL="http://127.0.0.1:1234/v1"
 
-OPENAI_API_KEY="random"\n
+OPENAI_API_KEY="random"
 
 Ensure newlines after each of the keys.
