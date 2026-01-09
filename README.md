@@ -8,7 +8,13 @@ Usage Instructions:
 Currently, a sample .env file has been provided, designed to allow one click access to OpenAI API compliant Local LLM servers like Jan and LMStudio. Would need these to be setup or configured before use. 
 **.env**
 Save the below format, after changes as .env in the same folder as this file.
+
 Format:
-MODEL="meta-llama-3.1-8b-instruct"
-BASE_URL="http://127.0.0.1:1234/v1"
-OPENAI_API_KEY="random"
+
+MODEL="meta-llama-3.1-8b-instruct"\n
+
+BASE_URL="http://127.0.0.1:1234/v1"\n
+
+OPENAI_API_KEY="random"\n
+
+Ensure newlines after each of the keys.
